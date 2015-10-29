@@ -24,8 +24,14 @@ We choose the Xillinux operating system for controlling. The Xillinux is mainly 
 
 ###Drivers and running environment
 The needed drivers are all contained in the Xillinux system. Actually the kernel comes from the Xilinx linux core:[https://github.com/Xilinx/linux-xlnx](https://github.com/Xilinx/linux-xlnx "xilinxcore")
-A Qt library and a OpenCV library must be cross compiled to fit for the Zybo. The version information is given below(in future).
 
+A Qt library and a OpenCV library must be cross compiled to fit for the Zybo. The version information is given below.
+
+>Qt 4.8.4
+
+>gcc-linaro-arm-gnueabihf 4.8.2 (linaro-1.13.1-4.8-2013.09 - Linaro GCC 2013.09)
+
+>OpenCV 2.4.9
 
 ###Softwares
 All the softwares are based on Qt library and OpenCV library. So it can be compiled on the platform supported by these two things, for example, a PC.
