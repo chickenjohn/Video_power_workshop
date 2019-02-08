@@ -39,5 +39,3 @@ All the softwares are based on Qt library and OpenCV library. So it can be compi
 ## License 
 The software is under the GPL v2.0.
 
-## Further information
-You may contact me for further information. My email address showed on Github is avalible.
